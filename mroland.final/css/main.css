@@ -1,0 +1,112 @@
+/* 
+    Name : Matthew Roland
+    Class : 1300 - 001
+    Assign# : final
+    Honor Pledge: On my honor as a student of the University
+    of Nebraska at Omaha, I have neither given nor received
+    unauthorized help on this homework assignment.
+    NAME: Matthew Roland
+    EMAIL: mroland@unomaha.edu
+    Partners: N/A
+    Desc: CSS page for the final
+*/
+#banner{
+    position:absolute;
+    left:0px;
+    background-color:#54af894d;
+    width:240px;
+    height:100%;
+    top:0;
+    border-color:black;
+    border-width:5px;
+}
+div.main{   
+    margin:10px;
+    padding:5px;
+    background-color:#0fc4976c;
+    width:575px;
+    border-style: solid;
+    border-width:2px;
+    border-color:black;
+    border-radius:10px;
+    display:block;
+}
+div.amain{
+    margin:10px;
+    padding:5px;
+    background-color:#0fc4976c;
+    width:575px;
+    height:275px;
+    border-style: solid;
+    border-width:2px;
+    border-color:black;
+    border-radius:10px;
+    float:left;/*display:inline-block;*/
+}
+div.bmain{
+    margin:10px;
+    padding:5px;
+    background-color:#0fc4976c;
+    width:575px;
+    height:400px;
+    border-style: solid;
+    border-width:2px;
+    border-color:black;
+    border-radius:10px;
+    float:left;/*display:inline-block;*/
+}
+div.parent{
+    position:absolute;
+    left:275px;
+    top:0px;
+}
+div#links{
+    top:500px;
+}
+div#validator{
+    left:0px;
+    position:absolute;
+    bottom:0px;
+    width:240px;
+}
+#watermark{
+    text-align:right;
+    position:absolute;
+    bottom:0px;
+    right:50px;
+}
+img.socials{
+    width:40px;
+    margin:10px;
+}
+img.centerimage{
+    height:60%;
+    border-radius:10px;
+    float:left;
+    padding:5px;
+}
+img.screwyouinstagram{
+    border-radius:15px;
+}
+h1{
+    text-align: center;
+}
+ul.socials{
+    list-style-type: none;
+    text-align:center;
+}
+li.images{
+    display:inline-block;
+}
+hr{
+    width:75%;
+    color:black;
+    background-color:black;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 125%;
+    margin:5px;
+}

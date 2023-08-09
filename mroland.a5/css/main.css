@@ -1,0 +1,171 @@
+/* 
+    Name : Matthew Roland
+    Class : 1300 - 001
+    Assign# : a5
+    Due : 2022/10/6
+    Honor Pledge: On my honor as a student of the University
+    of Nebraska at Omaha, I have neither given nor received
+    unauthorized help on this homework assignment.
+    NAME: Matthew Roland
+    EMAIL: mroland@unomaha.edu
+    Partners: N/A
+    Desc: CSS page for the previous web projects
+*/
+
+.bold{
+    font-weight: bold;
+}
+.italics{
+    font-style: italic;
+}
+h1{
+    color: #00008b;
+}
+div{
+    width:650px;
+    background-color:rgb(172, 172, 172);
+    border-radius:10px;
+    padding:5px;
+    margin:5px;
+    border: 1px solid black;
+}
+div.pagethree{
+    background-color:rgb(20, 156, 104);
+    padding:10px;
+    border-radius:10px;
+    margin:10px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    padding:15px;
+    margin: 3px;
+}
+img.me{
+    float: right;
+    border: 1px black solid;
+    padding:0px;
+}
+blockquote{
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+}
+#validator{
+    margin:15px;
+    padding:5px;
+    width: 650px;
+    bottom:2px; 
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8B0000;
+}
+a:link{
+    font-weight: bold;
+}
+a:hover{
+    background-color: #8b0000;
+    color:#eee
+}
+table{
+    border: 1px;
+    color:#eee;
+    padding:1px;
+}
+#daily{
+    width:600px; 
+    background-color: #191970 ; 
+    border: 1px solid black; 
+    border-radius:10px
+}
+td.work{
+    background-color:#dcdcdc;
+    color:black;
+}
+td.classes{
+    background-color:#ce6f039a
+}
+td.meals{
+    background-color:#fc7798
+}
+td.clubs{
+    background-color:rgba(172, 255, 47, 0.322)
+}
+td.sleep{
+    background-color:teal
+}
+td.generics{
+    background-color:rgba(172, 255, 47, 0.322)
+}
+tr{
+    text-align:right;
+}
+td{
+    width:100px;
+}
+th{
+    width:100px;
+}
+tr:hover{
+    background-color:#121312;
+    color:#fff;
+}
+td:hover{
+    background-color:#121312;
+    color:#fff;
+}
+th:hover{
+    background-color:#121312;
+    color:#fff;
+}
+h2, h3, h4, h5{
+    color: #00008b;
+    font-variant-caps: normal;
+    text-align: right;
+}
+hr{
+    width:75%;
+    color:#00008B;
+}
+iframe/video{
+    width:600px; 
+    height:375px;
+}
+audio{
+    width:500px; 
+    float:left; 
+    margin-left:50px;
+    margin-bottom:10px;
+}
+#videos{
+    width:650px; 
+    float:left;
+    background-color:rgb(20, 156, 104);
+    padding:10px;
+    border-radius:10px;
+    margin:10px;
+}
+#audios{
+    float:right;
+    background-color:rgb(20, 156, 104);
+    padding:10px;
+    border-radius:10px;
+    margin:10px;
+    width:900px;
+}
+#a4body{
+    background-color: rgb(123, 185, 240);
+}
+#nav{
+    bottom:0; 
+    clear:left; 
+    text-align: left; 
+    width:300px;
+}
+#copyright{
+    clear:right; 
+    text-align: right; 
+    width:auto; 
+    float:right; 
+    margin-right:270px;
+}

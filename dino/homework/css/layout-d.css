@@ -1,0 +1,56 @@
+body {
+    width: 85%;
+    max-width: 800px;
+    margin: 10px;
+}
+header {
+    background: url("../images/BluLeather.gif") repeat-x; /* http://j.mp/PgMvd7 */
+    height: 75px;
+    font: italic 2.5em "Times New Roman", serif;
+    text-align: center;
+    padding: 10px;
+}
+#main {
+    width: 68%;
+    padding-top:10px;
+    float: left;
+    padding-right: 15px;   /* to move the border away from the text */
+    border-right: 2px inset;
+    margin-bottom: 20px;   /* to push the footer away from the content */
+}
+
+#col2 {
+    width: 28%;
+    padding-top: 10px;
+    margin-left: 72%;
+    margin-bottom: 20px;   /* to push the footer away from the content */
+}
+#pic {
+    float: left;
+    padding-right: 10px;
+}
+.firstp {
+    margin-top: 0px;
+}
+footer {
+    background: url("../images/bst.jpg") repeat-x;
+    clear: both;
+    color: white;
+    font-weight: bold;
+    height: 75px;
+    font: italic 0.95em "Times New Roman", serif;
+    text-align: center;
+    padding-top: 25px; 
+    border-top: 3px double blue; /* look, another border! */
+}
+
+
+.menu li {    /* set how li elements inside the menu class behave */
+    display: inline;   /* change from block to inline */
+}
+
+.menu li {
+    display: inline;
+}
+
+

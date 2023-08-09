@@ -1,0 +1,43 @@
+
+
+/*
+		Name	: Jeff Blackmore
+		Class 	: CIST 1300
+		Assign#	: aX
+		Due	: Dayth month
+
+		Honor Pledge:  On my honor as a student of the University
+			of Nebraska at Omaha, I have neither given nor
+                received unauthorized help on this homework
+                assignment.
+
+	NAME: jeff Blackmore
+	EMAIL: cist1300.uno@gmail.com
+	
+		Partners:   NONE
+
+*/
+
+
+
+@charset "UTF-8";
+
+a:link 
+{ 
+	background: #ffe4c4; 
+}       /* unvisited link */
+
+a:visited 
+{ 
+	background: #00FF00; 
+}    /* visited link */
+
+a:hover 
+{ 
+	background: #FF00FF; 
+}      /* mouse over link */
+
+a:active 
+{ 
+	background: #0000FF; 
+}     /* selected link */

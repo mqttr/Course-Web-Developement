@@ -1,0 +1,19 @@
+/*  CSS file for February 12 lecture */
+
+body {
+    background-color: #f0f8ff;
+}
+section {
+    background-color: yellow;
+    font-size: 75%;
+}
+#main {
+    font: italic bold 1.25em "Times New Roman", serif;
+    color: blue;
+    background-color: lime;
+}
+footer {
+    font: 50% "Courier New", monospace;
+    color: yellow;
+}
+

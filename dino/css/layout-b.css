@@ -1,0 +1,44 @@
+body {
+    width: 85%;
+    max-width: 800px;
+    margin: 10px;
+}
+header {
+    background: url("../images/bst.gif") repeat-x; /* http://j.mp/PgMvd7 */
+    height: 75px;
+    font: italic 2.5em "Times New Roman", serif;
+    text-align: center;
+    padding: 10px;
+}
+#main {
+    width: 68%;
+    padding-top:10px;
+    float: left;
+    padding-right: 15px;   /* to move the border away from the text */
+    border-right: 2px inset; /* look, a border! */
+    margin-bottom: 20px;   /* to push the footer away from the content */ 
+}
+
+
+#col2 {
+    width: 28%;
+    padding-top: 10px;
+    margin-left: 72%;
+    margin-bottom: 20px;   /* to push the footer away from the content */
+}
+#pic {
+    float: left;
+    padding-right: 10px;
+}
+.firstp {
+    margin-top: 0px;
+}
+footer {
+    clear: both;
+    height: 75px;
+    font: italic 0.75em "Times New Roman", serif;
+    text-align: center;
+    padding-top: 25px; 
+    border-top: 3px double blue; /* look, another border! */
+    background: url("../images/BluLeather.gif") repeat-x;
+}

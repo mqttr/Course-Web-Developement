@@ -1,0 +1,31 @@
+
+
+
+
+h1,h2,h3
+{
+
+    color: red;
+    font-family: "palatino linotype", "times new roman", serif;
+
+}
+
+#aboutme
+{
+
+    background-color: #ffff12;
+    color: #191970;
+
+}
+
+.mtclass
+{
+
+    background-color: silver;
+    color: #191970;
+
+}
+
+.bad{ prop:valuse; prop: value; etc.}
+
+

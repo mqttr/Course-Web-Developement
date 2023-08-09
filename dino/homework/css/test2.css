@@ -1,0 +1,57 @@
+
+ 
+
+body
+{
+	height: 100%;
+	left:0px;
+	top: 0px;
+	background-image: url('images/bst4.jpg') ;
+
+
+}
+
+.fontRighteous
+{
+
+	font-family: 'Righteous', Arial;
+
+}
+
+a
+{
+
+	color: #000;
+
+}
+
+a:hover
+{
+
+	color: #fff;
+	background-color: #000;
+
+}
+
+a: visited
+{
+
+	color: #556b2f;
+	text-decoration: overline underline;
+
+}
+
+
+div#content
+{
+	
+	width: 80%;
+	margin-left: 9%;
+	margin-bottom: 9%;
+	padding: 20px;
+	height: 100%;
+	background-image: url('../images/bst.gif');
+	background-repeat: repeat;
+	
+
+}

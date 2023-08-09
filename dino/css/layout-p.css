@@ -1,0 +1,24 @@
+body {
+    width: 85%;
+    max-width: 800px;
+    margin: 10px;
+}
+
+header {
+    background: url("../images/back.jpg") repeat-x;   /* http://j.mp/PgMvd7 */
+    height: 75px;
+    font: italic 2.5em "Times New Roman", serif;
+    text-align: center;
+}
+
+#main {
+    width: 68%;
+    padding-top: 10px;    /* moving column away from header element */
+
+}
+
+#col2 {
+    width: 28%;
+    margin-left: 72% ;
+    padding-top: 10px;   /* moving column away from header element */
+}

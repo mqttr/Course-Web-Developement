@@ -1,0 +1,188 @@
+/* sample css file for the lecture February 07, 2012 */
+
+
+body {
+ 	border:             0px;
+ 	margin:             0px;
+ 	padding:            0px;
+ 	font-family:        "Times New Roman", serif;
+ 	background-color:   #ccd;
+   /*    background-image: url("../images/purple_lace.jpg")*/
+}
+
+
+
+a {
+ 	color:              #070;
+ 	text-decoration:    underline;
+  }
+
+
+
+#header 
+{
+    width:                  158px;
+    position:               fixed;
+    top:                    0px;
+    left:                   0px;
+    bottom:                 0px;
+    padding:                0px;
+    background-color:       #aab;
+    border-right:           2px solid #900;
+    overflow:               auto;
+}
+
+
+
+#title {
+    margin:                 14px;
+    font-weight:            bold;
+    font-size:              1.2em;
+}
+
+
+
+
+#nav {
+    border-bottom:          2px solid #900;
+}
+
+
+
+
+
+#nav a {
+    padding:                .1em 0px .25em 15px; 
+    white-space:            nowrap;
+    display:                block;
+    border-top:             1px solid #855;
+    background-color:       #bab;
+    font-weight:            bold;
+    text-decoration:        none;
+}
+
+
+
+#nav a:hover {
+    background-color:       #dab;
+}
+
+
+#content
+{
+   /* margin-top: 5%;
+    margin-right: auto;*/
+    margin-left:  160px;
+    max-width:    500px;
+    padding: 1em;
+ 
+}
+
+
+
+
+
+.page {
+    border:           1px solid black;
+    margin-bottom:    3em;
+    padding:          1em;
+    background-color: #eee;
+}
+
+
+
+.pagenum {
+    font-size:        75%;
+    text-align:       center;
+}
+
+
+
+.heading {
+    font-variant: small-caps;
+}
+
+/*
+
+
+
+/*
+
+
+p.testing
+{
+	width:     500px;
+	color:     #5566ff;
+}
+
+
+*/
+
+
+
+
+
+
+
+
+
+#nav p a {
+    padding:                .1em 0px .25em 15px;
+    white-space:            nowrap;
+    display:                block;
+    border-top:             1px solid #121312;
+    background-color:       #bab;
+    font-weight:            bold;
+    text-decoration:        none;
+}
+
+
+
+
+
+#nav a:hover {
+    background-color:       #dab;
+}
+
+
+
+/* in class the discussion centered around the use of padding of content with the left margin at 160 px or the use of settign the margin at 180+ px and losing the padding.  For the left side in this particular page the difference is nil, that does not mean in a different page layout there would not be reasons for one or the other. */
+
+
+
+#content
+{
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left:  160px;
+    max-width:          500px;
+    padding: 10px;
+ 
+}
+
+#validator
+{
+
+    margin-left: 160px;
+    padding: 10px;
+
+}
+
+
+
+
+
+
+
+.willa
+{
+
+	width: 150px;
+
+}
+
+
+
+
+
+

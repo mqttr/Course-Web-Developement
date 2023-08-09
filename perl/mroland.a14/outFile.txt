@@ -1,0 +1,8 @@
+Maker of the File: Matthew Roland
+Class: CIST 1300
+Section: 001
+I hope this code works.
+Adding -2 and 2 gives us 0
+12 subtracting -12 gives us 24
+Combining 3.3 and 6.6 and 9.9 gives us 19.8
+Multipliplying gives us 215.622

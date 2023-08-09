@@ -1,0 +1,14 @@
+
+
+body {
+    /* bg image from http://j.mp/PgMvd7 */
+    background-image: url('../images/BluLeather.gif') ;
+    background-repeat:repeat-y;     /* repeat horizontally */
+    
+}   
+
+img
+{
+
+	width: 150px;
+}

@@ -1,0 +1,54 @@
+
+
+
+body
+{
+	
+	background-color: olive;
+	color: white;
+	
+}
+
+div
+{
+	/*border-width: 2px;
+	border-style: dashed;
+	border-color: black;*/
+	border: 2px dashed black;
+	border-radius: 20px;
+	padding: 5px;
+	width:700px;
+	background-color:khaki;
+	color: black;
+	margin:8% 10%;
+}
+
+div#validator
+{
+	
+	padding:5px;
+	
+}
+
+img.rite
+{
+	
+	float:right;
+	padding: 3px;
+	
+}
+
+img.left
+{
+	
+	float:left;
+	padding: 3px;
+	
+}
+
+p
+{
+	
+	padding: 3px;
+	
+}
