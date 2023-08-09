@@ -1,9 +1,0 @@
-@charset "UTF-8";
-
-/* this rule applies to the paragraph sections of the document */
- p {
-             color: purple; 
-             font-family: 'Comic Sans MS';
-
-     }
-
